@@ -1,0 +1,11 @@
+{
+  "availability": "PRIVATE",
+  "contextPath": "myapp",
+  "key": "myapp-appkey",
+  "name": "My app",
+  "resourcesUrl": "https://bitbucket.org/USER/REPO/raw/master/build",
+  "type": "HOSTED",
+  "imports": [
+    "core/c8yBranding"
+  ]
+}
